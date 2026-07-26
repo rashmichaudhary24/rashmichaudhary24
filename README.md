@@ -34,9 +34,7 @@ A showcase of AI-enabled learning projects, business use cases, instructional de
 
 ## 💡 Why this GitHub?
 
-This isn't a collection of code experiments.
-
-It's a public record of how I'm learning, questioning, and explaining AI.
+This GitHub reflects my approach to learning AI: understand deeply, explain clearly, and apply practically.
 
 My goal is to make modern AI understandable for business professionals, learning teams, and anyone curious about how these systems actually work.
 
