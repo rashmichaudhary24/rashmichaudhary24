@@ -46,4 +46,4 @@ If something here helps another learner, then this journal has already served it
 
 🌐 Website: https://rashmichaudhary24.github.io/
 
-💼 LinkedIn: [*(add your LinkedIn URL here)*](https://www.linkedin.com/in/rashmi-chaudhary-ai-enablement/)
+💼 LinkedIn: https://www.linkedin.com/in/rashmi-chaudhary-ai-enablement/
