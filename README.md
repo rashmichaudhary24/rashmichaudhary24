@@ -1,2 +1,2 @@
-# -rashmichaudhary24
+# rashmichaudhary24
 GitHub profile README
