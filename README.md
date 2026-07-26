@@ -1,6 +1,6 @@
 # Hi, I'm Rashmi Chaudhary 👋
 
-I'm an AI Enablement and Learning professional exploring how Generative AI can be adopted thoughtfully within organisations.
+I'm an AI Enablement and learning professional exploring how Generative AI can be adopted thoughtfully within organisations.
 
 This GitHub profile documents my journey from understanding how modern AI systems work to designing practical resources that help business professionals use AI with confidence. I believe that complex ideas become valuable only when they are explained clearly and applied meaningfully.
 
