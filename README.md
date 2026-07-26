@@ -16,7 +16,7 @@ A structured learning journal covering modern AI concepts—from LLMs and tokens
 ### 🌐 Professional Portfolio
 A showcase of AI-enabled learning projects, business use cases, instructional design work, and technology enablement initiatives.
 
-➡️ https://rashmichaudhary24.github.io/
+➡️ https://rashmichaudhary24.github.io/ai-tools-portfolio
 
 ---
 
@@ -44,6 +44,6 @@ If something here helps another learner, then this journal has already served it
 
 ## 🤝 Let's Connect
 
-🌐 Portfolio: https://rashmichaudhary24.github.io/
+🌐 Website: https://rashmichaudhary24.github.io/
 
-💼 LinkedIn: *(add your LinkedIn URL here)*
+💼 LinkedIn: [*(add your LinkedIn URL here)*](https://www.linkedin.com/in/rashmi-chaudhary-ai-enablement/)
